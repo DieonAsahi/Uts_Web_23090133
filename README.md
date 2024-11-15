@@ -7,7 +7,7 @@ Nama : Atha Dion Saputra
 
 Kelas : 3D
 
-NIM 23090133
+NIM : 23090133
 
 
 
